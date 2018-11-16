@@ -1,0 +1,7 @@
+
+Logged request date: 11/13/2018 07:30 | Request type:   | Server response:  
+Logged request date: 11/13/2018 07:32 | Request type:   | Server response:  
+Logged request date: 11/13/2018 07:35 | Request type:   | Server response:  
+Logged request date: 11/13/2018 07:36 | Request type: Enrol to a course  | Server response: The student  is registered for the course SOEN1234 
+Logged request date: 11/13/2018 07:36 | Request type: Get class schedule  | Server response: COMP student courses = semester is WINTER and course is COMP556, semester is WINTER and course is COMP349, semester is WINTER and course is COMP1234,  | SOEN student courses = semester is WINTER and course is SOEN556, semester is WINTER and course is SOEN349, semester is WINTER and course is SOEN1234,  | INSE student courses = semester is WINTER and course is INSE349, semester is WINTER and course is INSE1234, semester is WINTER and course is INSE556,  
+Logged request date: 11/13/2018 07:41 | Request type: Enrol to a course  | Server response: The student  is registered for the course SOEN1234 

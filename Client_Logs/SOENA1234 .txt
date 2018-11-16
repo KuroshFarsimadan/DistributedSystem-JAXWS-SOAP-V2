@@ -1,0 +1,2 @@
+
+Logged request date: 11/16/2018 07:04 | Request type: Add a course  | Server response: A new course SOEN349 has been added for FALL semester 
